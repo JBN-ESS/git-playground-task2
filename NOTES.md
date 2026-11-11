@@ -9,3 +9,4 @@ Fix search to match notes containing the term
 
   Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>" && git status --short)
  
+ ## Claude clearly described in the commit message what and why has been changed
